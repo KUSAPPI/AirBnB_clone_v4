@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-    Sript that starts a Flask web application
+  This is a  Sript that starts a Flask web application
 """
 from flask import Flask, render_template
 from models import storage
