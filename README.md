@@ -8,6 +8,7 @@ Interface (WSGI).
 
 ## Learning Objective
 How cool it is to request your own API
+How to modify an HTML element style
 
 ## Environment
 
