@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-  This is a  Sript that starts a Flask web application
+     Sript that starts a Flask web application
  """
 from flask import Flask
 app = Flask(__name__)
