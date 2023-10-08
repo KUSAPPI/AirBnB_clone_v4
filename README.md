@@ -7,6 +7,7 @@ The Flask App and nginx are connected with gunicorn Web Server Gateway
 Interface (WSGI).
 
 ## Learning Objective
+How cool it is to request your own API
 
 ## Environment
 
